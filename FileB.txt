@@ -1,3 +1,4 @@
 This is FileB
 lets make a change
 Changes made to fileB
+This is for squash merge
